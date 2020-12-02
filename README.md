@@ -1,54 +1,8 @@
-```java
-package io.github.cemicyz;
+### cemicyz
 
-import org.jetbrains.annotations.NotNull;
+hi I'm Cem, I'm working on java also I have knowledge about mongodb,bukkit,redis. I coding bukkit plugins on my spare time :")
 
-public final class cemicyz extends People {
+### to reach me
 
-    @NotNull
-    String getName() {
-        return "Cem";
-    }
-
-    boolean isStudent() {
-        return true;
-    }
-
-    @NotNull
-    String getInterests() {
-        return "Java";
-    }
-
-    @NotNull
-    String getWorkingOn() {
-        return "@semicyz";
-    }
-
-    @NotNull
-    String[] getMailAdresses() {
-        return new String[] {"cemicyz@tuta.io", "cemicyz@pm.me"};
-    }
-
-    @NotNull
-    String getSocialMediaAccount(@NotNull SocialMedia socialMedia) {
-        switch (socialMedia) {
-            case KEYBASE:
-            case TWITTER:
-            case STEAM:
-            case INSTAGRAM:
-                return "cemicyz";
-                break;
-            case DISCORD:
-                return "cemicyz#3610";
-				break;
-            default:
-                return "cemicyz";
-				break;
-        }
-    }
-
-    void onStar(@NotNull StarEvent e) {
-        e.getStargazer().sendMessage("Thank You!");
-    }
-}
-```
+- E-Mail : cemicyz@pm.me or cemicyz@tuta.io
+- Discord : yungcemic#0786
