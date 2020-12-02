@@ -1,6 +1,7 @@
 ### cemicyz
 
-hi I'm Cem, I'm working on java also I have knowledge about mongodb,bukkit,redis. I coding bukkit plugins on my spare time :")
+Hi I'm Cem, I'm working on java also I have knowledge about mongodb,bukkit,redis.
+I coding bukkit plugins on my spare time :")
 
 ### to reach me
 
