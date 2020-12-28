@@ -3,6 +3,6 @@ Hi I'm Cem, I'm a 15yo software developer from Turkey. I working on java and kot
 ### to reach me
 
 - Discord
-  - ```yungcemic#0786```
+  - ```cemicyz#1116```
 - Mail
   - *cemicyz@pm.me or cemicyz@tuta.io*
